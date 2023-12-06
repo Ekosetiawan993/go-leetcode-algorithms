@@ -19,6 +19,7 @@ func insertSort(arr []int) []int {
 			// fmt.Println()
 		}
 		// fmt.Println(i)
+		fmt.Println(arr2)
 	}
 	return arr2
 }

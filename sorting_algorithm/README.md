@@ -22,4 +22,12 @@ In every iteration of bubble sort, we will get the largest number of available i
 
 For further explanation, watch this video:
 
-[(https://img.youtube.com/vi/uJLwnsLn0_Q?si/hqdefault.jpg)](https://www.youtube.com/embed/uJLwnsLn0_Q?si)
+[![Watch the video](https://img.youtube.com/vi/uJLwnsLn0_Q/default.jpg)](https://youtu.be/uJLwnsLn0_Q)
+
+## 2. Insertion Sort
+
+In short, we iterate through each elements of an array, and we insert it to the right position.
+
+On implementation, I like to implements it using backward iteration where we keep comparing two elements of array and move the smaller one to the left position.
+
+[![Watch the video](https://img.youtube.com/vi/nKzEJWbkPbQ/default.jpg)](https://youtu.be/nKzEJWbkPbQ)
